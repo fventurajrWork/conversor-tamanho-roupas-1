@@ -29,10 +29,19 @@ Estabelece o tamanho entre o tamanho de camisa, calça e sapatos entre a nomecla
 |  XXG   | XXL        |
 
 ## camisa social
+| Brasil |     EUA    |
+|--------|------------|
 |    1   |   13       |
 |  1 1/2 |   13       |
 |    2   |   14       |
 |  2 1/2 |   14       |
+|  3     |   15       |
+|  3 1/2 |   15       |
+|  4     |   16       |
+|  4 1/2 |   16       |
+|  5     |   17       |
+|  5 1/2 |   17       |
+|  6     |   18       |
 
 
 # Background
