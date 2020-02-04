@@ -18,6 +18,23 @@ Estabelece o tamanho entre o tamanho de camisa, calça e sapatos entre a nomecla
 |  44    | 54  |
 |  46    | 56  |
 
+## camisas
+| Brasil |     EUA    |
+|--------|------------|
+|   XP   |  XS(ou SS) |
+|    P   |   S        |
+|    M   |   M        |
+|    G   |   L        |
+|   XG   |  XL        |
+|  XXG   | XXL        |
+
+## camisa social
+|    1   |   13       |
+|  1 1/2 |   13       |
+|    2   |   14       |
+|  2 1/2 |   14       |
+
+
 # Background
 | categoria     | descrição            |
 |---------------|----------------------|
