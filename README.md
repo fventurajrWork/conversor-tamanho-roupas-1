@@ -43,6 +43,15 @@ Estabelece o tamanho entre o tamanho de camisa, calça e sapatos entre a nomecla
 |  5 1/2 |   17       |
 |  6     |   18       |
 
+## sapatos / tênis / sandálias/ chinelos (masculino)
+| Brasil | EUA  |
+|--------|------|
+|   36   |  6   |
+|   37   |  6,5 |
+|   38   |  7   |
+|   39   |  7,5 |
+|        |  8   |
+|   40   |  8,5 |
 
 # Background
 | categoria     | descrição            |
