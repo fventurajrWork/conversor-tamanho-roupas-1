@@ -56,8 +56,10 @@ Estabelece o tamanho entre o tamanho de camisa, calça e sapatos entre a nomecla
 # Background
 | categoria     | descrição            |
 |---------------|----------------------|
-| front-end     | não se aplica        |
-| back-end      | Android              |
-| linguagem     | Java                 |
-| cliente       | loja Google          |
-| desenvolvedor | Fernando Ventura jr. |
+| requisitos    | Fernando Ventura Jr. |
+| ux            | José Dantas          |
+| webdesigner   | Aline Afonso Silva   |
+| projetista    | Fernando Ventura Jr. |
+| front-end     | João Vicente         |
+| back-end      | Fernando Ventura jr. |
+| banco de dados| José Dantas          |
